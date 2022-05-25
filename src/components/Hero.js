@@ -14,7 +14,7 @@ export default function Hero({ isMobile }) {
                 <div className="col-xs-12">
                 <div className="hero-full-wrapper">
                     <div style={isMobile ? { "maxWidth": "100px" } : {}} className="text-content">
-                        <TypeWriter style={{ "height": "180px" }} words={["I'm Tanner Metzmeier", "Web Developer", "Cyber Security Specialist", "Cloud Expert"]} />
+                        <TypeWriter style={{ "height": "180px" }} words={["I'm Tanner Metzmeier", "Web Developer", "Automator", "Systems Integrator", "Cyber Security Specialist", "Cloud Expert"]} />
                     </div>
                 </div>
                 </div>
