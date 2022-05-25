@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.hidden-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
